@@ -1,0 +1,20 @@
+{
+  "file_name": "arkdino_sd_15_bf16-000009",
+  "model_name": "arkdino_sd_15_bf16-000009",
+  "file_path": "B:/ComfyUI/models/loras/arkdino_sd_15_bf16-000009.safetensors",
+  "size": 302114016,
+  "modified": 1757183748.081427,
+  "sha256": "4e34c362834fa63ddf27e3ca38e6bbfe13bfa11e755e2cfd8807b6ca82306d8e",
+  "base_model": "Unknown",
+  "preview_url": "",
+  "preview_nsfw_level": 0,
+  "notes": "",
+  "from_civitai": false,
+  "civitai": null,
+  "tags": [],
+  "modelDescription": "",
+  "civitai_deleted": false,
+  "favorite": false,
+  "exclude": false,
+  "usage_tips": "{}"
+}
